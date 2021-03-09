@@ -6,7 +6,9 @@ Image data used for model pretrain, finetune and test can be downloaded via Goog
 
 Train: [link](https://drive.google.com/drive/folders/14Cg-QuOCPVrynpuFI_jFqRqzTj2rNk4d?usp=sharing)  
 Finetune: [link](https://drive.google.com/drive/folders/1-XaRXqBOrAHQNyMNEBwCEsdKilk_JFkz?usp=sharing)  
-Test: [link](https://drive.google.com/drive/folders/1Hpvo2iNqt3I1qgMy9SCXv7azSpCEitao?usp=sharing)
+Test: [link](https://drive.google.com/drive/folders/1Hpvo2iNqt3I1qgMy9SCXv7azSpCEitao?usp=sharing)  
+
+The complete training and testing datasets will be provided once the paper is officially published.
 
 ## Pre-train SimTriplet 
 main_tcga_mixpresition.py
