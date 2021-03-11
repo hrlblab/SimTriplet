@@ -1,5 +1,6 @@
 # SimTriplet
 SimTriplet: PyTorch Implementation
+[Paper](https://arxiv.org/pdf/2103.05585.pdf)
 
 ## Data description 
 Image data used for model pretrain, finetune and test can be downloaded via Google drive link:
@@ -33,4 +34,18 @@ test_patho_prob_major_vote.py
 
 ## Well trained model
 Model pretrained on TCGA data is provided [here](https://drive.google.com/file/d/1TtiMckXEjBV17UICQ1tpjSATP8u4fLOA/view?usp=sharing)
+
+## Citation
+If you find this repository useful in your research, please cite:
+```
+@misc{liu2021simtriplet,
+      title={SimTriplet: Simple Triplet Representation Learning with a Single GPU}, 
+      author={Quan Liu and Peter C. Louis and Yuzhe Lu and Aadarsh Jha and Mengyang Zhao and Ruining Deng and Tianyuan Yao and Joseph T. Roland and Haichun Yang and Shilin Zhao and Lee E. Wheless and Yuankai Huo},
+      year={2021},
+      eprint={2103.05585},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+
+```
 
