@@ -2,7 +2,7 @@
 SimTriplet: PyTorch Implementation
 [Paper](https://arxiv.org/pdf/2103.05585.pdf)
 
-![Visualization of classification](https://github.com/hrlblab/SimTriplet/blob/main/For_github.pdf)
+![Visualization of classification](https://github.com/hrlblab/SimTriplet/blob/main/For_github.jpg)
 
 ## Data description 
 Image data used for model pretrain, finetune and test can be downloaded via Google drive link:
